@@ -1,5 +1,3 @@
-# Hola! Soc en fustcoma
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Programaci%C3%B3+i+rob%C3%B2tica;Desenvolupament+web;Electr%C3%B2nica+i+Raspberry+Pi;Sempre+aprenent+coses+noves" alt="Text animat" />
 </p>
